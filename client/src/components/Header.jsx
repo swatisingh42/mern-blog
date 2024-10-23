@@ -37,7 +37,7 @@ export default function Header() {
             <FaMoon />
         </Button>
         <Link to="/sign-in">
-        <Button className="bg-gradient-to-r from-teal-700 via-teal-500 to-[#41B3A2] text-white">
+        <Button className="bg-gradient-to-r from-teal-700 via-teal-500 to-[#41B3A2] text-white" outline>
      Sign In
 </Button>
 
